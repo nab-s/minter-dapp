@@ -11,8 +11,8 @@
   --font-code: "Barlow", monospace;
   --bg-color: #ff83a8;
   --bg-color-transparent: #ff83a880;
-  --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
+  --font-color: #000000;
+  --btn-bg-color: #ff83a8;
   --accent-color: #ffe98a;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
