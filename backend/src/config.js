@@ -140,7 +140,7 @@ let CONTRACT_ADDRESS = "0x47E3Bd7c3e27e10517090D667F07158D3CA3A548"; // If you w
 const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
 const GENERIC_DESCRIPTION = "Bunnies Band is a completely autonomous community governed by its own rules and codes. would you be lucky enough to mint one of the Golden Bunnies that allow you to rise to the rank of band chief and enjoy the countless privileges that come with? only ten Golden BB available. good luck!."; // Replace with what you want the generic descriptions to say.
-const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafybeibm5s2tnlh7ot2adexw4elf2ev237s6yayn5jajecum4vutil5j7m"; // Replace with your generic image that will display for all NFTs pre-reveal.
+const GENERIC_IMAGE = "https://ipfs.io/ipfs/bafybeif7c373mpxcgiksuqlqygydg6ukb6e4afxiu3l4bxogf7dhmja2g4"; // Replace with your generic image that will display for all NFTs pre-reveal.
 
 // Automatically set contract address if deployed using the deployContract.js script
 try {
