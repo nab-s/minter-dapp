@@ -8,10 +8,10 @@
   --font-primary: "Rubik", sans-serif;
   --font-secondary: "Work+Sans", sans-serif;
   --font-code: "Barlow", monospace;
-  --bg-color: #fcf3ff;
-  --bg-color-transparent: #fcf3ff80;
-  --font-color: #ffdd00;
-  --btn-bg-color: #f6ddff;
+  --bg-color: #fecccd;
+  --bg-color-transparent: #fecccd80;
+  --font-color: #ffffff;
+  --btn-bg-color: #ff9898;
   --accent-color: #ffe98a;
   --header-shadow: var(--accent-color) 0px 0px 0px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
